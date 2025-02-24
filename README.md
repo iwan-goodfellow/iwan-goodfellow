@@ -5,7 +5,7 @@
 - 💬 Ask me about **Python, AI, and Open Source**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iwan-goodfellow&show_icons=true&theme=radical)
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+AI+%26+ML!;Let's+collaborate!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Welcome+to+my+Space!;I+Really+Like+Sate+Ayam!;Oh+No,+I+intend+to+say+I+Love+code+haha;Let's+collaborate🔥🔥)
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
