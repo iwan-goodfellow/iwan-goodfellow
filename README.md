@@ -3,6 +3,7 @@
 
 - 🌱 I’m learning **Deep Learning, Transformers, and LLMs**
 - 💬 Ask me about **Python, AI, and Open Source**
+- 🎈 Fun fact **Im code since 2nd year college**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iwan-goodfellow&show_icons=true&theme=radical)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Welcome+to+my+Space!;I+Really+Like+Sate+Ayam!;Oh+No,+I+intend+to+say+I+Love+code+haha;Let's+collaborate🔥🔥)
