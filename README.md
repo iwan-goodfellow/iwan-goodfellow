@@ -2,6 +2,7 @@
 ### 🚀 Data Scientist & AI Geeks
 
 - 🌱 I’m learning **Deep Learning, Transformers, and LLMs**
+- 🎓 **UGM** Alumni
 - 💬 Ask me about **Python, AI, and Open Source**
 - 🎈 Fun fact **Im code since 2nd year college**
 
