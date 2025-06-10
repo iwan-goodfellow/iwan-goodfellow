@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Iwan!</h1>
-<h3 align="center">🚀 Data Enthusiast | LLM Researcher | </h3>
+<h1 align="center">Hi there 👋, I'm Ridwan!</h1>
+<h3 align="center">🚀 Data Geeks | Fulltime Learner | Part Time Researcher  </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Welcome+to+my+Space!;I+Really+Like+Sate+Ayam!;Oh+No,+I+intend+to+say+I+Love+code+haha;Let's+collaborate🔥🔥" alt="Typing SVG" />
